@@ -1,4 +1,8 @@
-import argparse, os
+#!/usr/bin/python3
+
+import argparse, os,sys
+
+sys.path.insert(1, '/home/cole/Documents/Useful-Scripts/Bulk Rename')
 import med
 from math import floor
 
